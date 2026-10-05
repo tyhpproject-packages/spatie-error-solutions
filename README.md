@@ -1,10 +1,10 @@
 <!-- tyhp-readme:start -->
 # tyhpdef/spatie-error-solutions
 
-Tyhp type definitions for `spatie/error-solutions` `1.1.3`.
+Tyhp type definitions for `spatie/error-solutions` `2.0.5`.
 
 ```bash
-composer require --dev tyhpdef/spatie-error-solutions:1.1.3
+composer require --dev tyhpdef/spatie-error-solutions:2.0.5
 ```
 
 This is a metapackage. Composer also installs `tyhpdef/spatie-error-solutions-impl` (type files).
